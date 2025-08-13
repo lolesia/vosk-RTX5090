@@ -4,3 +4,4 @@ Docker Compose for building and running the Vosk speech recognition service with
 The project includes Kaldi / Vosk / Vosk-server rebuilt from source with fixed dependencies and makefiles.
 JIT compilation support (compute tag) has been implemented, allowing Vosk to run on modern GPUs without official support.
 It also includes a fixed asr_server_gpu.py file, which can optionally be passed to the container.
+![1750079693781](https://github.com/user-attachments/assets/c5390e7d-6219-4d17-9a97-f869cd291f9a)
